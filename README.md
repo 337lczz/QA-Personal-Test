@@ -17,9 +17,9 @@ Validar diferentes cenários de cadastro no sistema Demo Web Shop, tanto positiv
 ## ▶️ Como Executar os Testes
 
 1. **Clone o repositório:**
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+```
+git clone https://github.com/337lczz/QA-Personal-Test.git
+cd QA-Personal-Test
 ```
 
 2. **Instale as dependências:**
