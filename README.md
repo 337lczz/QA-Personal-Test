@@ -12,7 +12,7 @@ Validar diferentes cenários de cadastro no sistema Demo Web Shop, tanto positiv
 - **Framework**: SeleniumLibrary
 - **Gerenciador de pacotes**: pip
 - **Navegador usado**: Chrome
-- **Ferramenta de automação**: VS Code / RIDE (opcional)
+- **Ferramenta de automação**: VS Code
 
 ## ▶️ Como Executar os Testes
 
