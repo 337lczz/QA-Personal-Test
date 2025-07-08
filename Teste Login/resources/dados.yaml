@@ -1,0 +1,34 @@
+cadastro:
+  primeiro_nome: primeiro
+  primeiro_nome_espaco: ㅤㅤ
+  primeiro_nome_acento: Tonhõ
+  primeiro_nome_teste: teste
+  primeiro_nome_longo: Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  primeiro_nome_tracos: O'Malley
+
+  ultimo_nome: ultimo
+  ultimo_nome_espaco: ㅤㅤ
+  ultimo_nome_acento: Munõz
+  ultimo_nome_teste: teste
+  ultimo_nome_longo: Bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  ultimo_nome_tracos: D'Oliviera
+
+  senha: Senha@123
+  senha_diferente: Senha@342
+  senha_curta: 123
+  senha_espaco: ㅤㅤ
+  senha_teste: teste
+  senha_simples: 12345678
+  senha_letras: testesenha
+
+  email_invalido: teste@gmail_com
+  email_arroba: testegmail.com
+  email_espaco: t e s t e@g ma i l.com
+  email_virgula: teste,@gmail.com
+  email_incompleto: teste@gmail
+  email_espaco_inicio: ㅤㅤteste@gmail.com  
+  email_cadastrado_capslock: TESTEROBOT@GMAIL.COM
+  email_valido: teste@gmail.com
+  email_cadastrado: testerobot@gmail.com
+  email_espaco: ㅤㅤ
+  email_teste: teste
